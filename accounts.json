@@ -1,0 +1,21 @@
+{
+ "student888": {"id":888,
+            "password":"abc",
+            "f_name": "Stish",
+            "l_books_borrowed":[],
+            "l_books_reserved":[],
+            "l_return_books": [],
+            "l_lost_books" : [],
+            "acc_fine": null
+            },
+
+ "student123": {"id":123,
+                "password":"abc",
+                "f_name": "Rita",
+                "l_books_borrowed":[],
+                "l_books_reserved":[],
+                "history_return": [],
+                "l_lost_Books" : [],
+                "acc_fine": null
+                 }
+}
